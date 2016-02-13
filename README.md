@@ -3,7 +3,7 @@ I managed development of these projects as a project manager
 
 # Nissan
 
-![](https://github.com/schiz/managed-projects/pics/nissan.jpg)
+![Nissan](https://github.com/schiz/managed-projects/pics/nissan.jpg)
 
 * Front-end development of a website for Nissan dealer in Russia
 * Stack: HTML5, CSS3, Less, JavaScript, jQuery, Modernizr
