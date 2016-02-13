@@ -21,9 +21,9 @@ I managed development of these projects as a project manager
 
 # Redd's
 
-* 
-* 
-*
+* Front-end development of а promo-site for SAB Miller 
+* Stack: HTML5, CSS3, JavaScript (jQuery)
+* http://mnb-t.com/#portfolio-redds-apples
 
 # Dove real man
 
