@@ -3,21 +3,21 @@ I managed development of these projects as a project manager
 
 # Nissan
 
-* 
-* 
-* 
+* Front-end development of a website for Nissan dealer in Russia
+* Stack: HTML5, CSS3, Less, JavaScript, jQuery, Modernizr
+* http://mnb-t.com/#portfolio-nissan
 
 # Intel
 
-* 
-* 
-*
+* Front-end development of a promo-site for russian branch of "lntel corp."
+* Stack: HTML5, CSS3, JavaScript (jQuery), Underscore.js, Backbone.js
+* http://mnb-t.com/#portfolio-intel 
 
 # Marlboro
 
-* 
-* 
-*
+* Front-end development of a landing page for Мarlboro promo-site
+* Stack: HTML5, CSS3, JavaScript (jQuery) 
+* http://mnb-t.com/#portfolio-marlboro
 
 # Redd's
 
