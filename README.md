@@ -2,9 +2,8 @@
 I managed development of these projects as a project manager
 
 # Nissan
-
-![alt text](https://github.com/schiz/raw/master/managed-projects/pics/nissan.png "Nissan")
 ![alt text](https://github.com/schiz/managed-projects/pics/icon48.png "Hey a")
+![alt text](https://github.com/schiz/managed-projects/raw/master/pics/nissan.png "Nissan")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
