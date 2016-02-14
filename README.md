@@ -3,7 +3,7 @@ I managed development of these projects as a project manager
 
 # Nissan
 
-![Nissan](https://github.com/schiz/managed-projects/pics/nissan.png "Nissan")
+![alt text](https://github.com/schiz/managed-projects/pics/nissan.png "Nissan")
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
