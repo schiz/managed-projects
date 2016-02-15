@@ -5,13 +5,13 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/nissan.jpg "Nissan")
 * Front-end development of a website for Nissan dealer in Russia
 * Stack: HTML5, CSS3, Less, JavaScript, jQuery, Modernizr
-* http://mnb-t.com/#portfolio-nissan
+* [Repository](https://github.com/schiz/nissan)
 
 # Intel
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/intel.jpg "Intel")
 * Front-end development of a promo-site for russian branch of "lntel corp."
 * Stack: HTML5, CSS3, JavaScript (jQuery), Underscore.js, Backbone.js
-* http://mnb-t.com/#portfolio-intel 
+* [Repository](https://github.com/schiz/intel)
 
 # Marlboro
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/marlboro.jpg "Marlboro")
@@ -77,7 +77,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/gallery.jpg "Gallery")
 * Front-end development of portfolio site
 * Stack: HTML5 / CSS3 / JavaScript j(Query) / Responsive markup
-* http://mnb-t.com/#portfolio-gallery 
+* [Repository](https://github.com/schiz/gallery)
 
 # Vigital
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/vigital.jpg "Vigital")
@@ -89,7 +89,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/purecountry.jpg "Pure country")
 * Front-end development of an online-store 
 * Stack: HTML5 / CSS3 / JavaScript (jQuery) / Bitrix
-* httр://mnb-t.сom/#portfoliо-pure-country
+* [Repository](https://github.com/schiz/purecountry)
 
 # Puzzle
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/puzzle.jpg "Puzzle")
@@ -113,7 +113,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/pairs.jpg "Pairs")
 * Front-end / Back-end development of а browser JavaScript game "Puzzles"
 * Stack: HTML5, CSS3 (transition, transform, 3D-transform, Less), Backbone.js, Underscore.js, JavaScript, jQuery, Modernizr 
-* http://mnb-t.com/#portfolio-game-pairs
+* [Repository](https://github.com/schiz/pairs)
 
 # Avegi.ru
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/avegi.jpg "Avegi.ru")
@@ -131,25 +131,25 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/obit.jpg "Obit")
 * Front-end development of а corporate websitefor а company providing telecommunication services "Obit" 
 * Stack: HTML5, CSS3, Less, JavaScript, jQuery, Modernizr
-* http://mnb-t.com/#portfolio-obit
+* [Obit](https://github.com/schiz/obit)
 
 # Legeartis
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/legeartis.jpg "Legeartis")
 * Front-end development of а corporate website for one of the biggest auto-dealers in Russia "Legeartis"
 * Stack: HTML5, CSS3, Less, JavaScript, jQuery, Backbone.js, Underscore.js, Modernizr 
-* http://mnb-t.com/#portfolio-legeartis 
+* [Repository](https://github.com/schiz/legeartis)
 
 # Bersalio
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/bersalio.jpg "Bersalio")
 * Front-end development of an online-store of clothing "Bersalio"
 * Stack: HTML5, CSS2 / CSS3 (Less), Javascript, jQuery, Modernizr 
-* http://mnb-t.com/#portfolio-bersalio
+* [Repository](https://github.com/schiz/bersalio)
 
 # Orangepark
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/orangepark.jpg "Orangepark")
 * Front-end development of an entertainment park with interactive map.
-* 5tack: HTML 5, CSS3, JavaScript (jQuery) 
-* http://mnb-t.com/#portfolio-orangepark 
+* Stack: HTML 5, CSS3, JavaScript (jQuery) 
+* [Repository](https://github.com/schiz/orangepark)
 
 # Mazapromo
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/mazapromo.jpg "Mazapromo")
@@ -161,55 +161,55 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/airtribune.jpg "Airtribune")
 * Front-end development of а web-site of air-sports 
 * Stack: HTML 5, CSS 3, JavaScript (jQuery)
-* http://mnb-t.com/#portfoliо-аirtribune
+* [Repository](https://github.com/schiz/airtribune)
 
 # Coffeetime
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/coffee.jpg "Coffeetime")
 * Front-end development of a website for a music band "Coffeetime band"
 * Stack: HTML5, CSS3, Less, JavaScript, jQuery, Backbone.js, Underscore.js 
-* http://mnb-t.com/#portfolio-coffeetime-band 
+* [Repository](https://github.com/schiz/coffee)
 
 # Obruset
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/obruset.jpg "Obruset")
 * Front-end development of a website for language courses
 * Stack: HTML5 / CSS3 / JavaScript (jQuery)
-* http://mnb-t.com/#portfolio-obruset 
+* [Repository](https://github.com/schiz/obruset)
 
 # Recipio
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/recipio.jpg "Recipio")
 * Front-end development of а landing-рagе for medical mobile-app "Recipio" 
 * 5tack: HTML5, CSS3, JavaScript, jQuery 
-* http://mnb-t.com/#portfolio-recipio 
+* [Repository](https://github.com/schiz/recipio)
 
 # BD Club
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/bdclub.jpg "BD Club")
 * Front-end development of a website for Badminton Club
-* 5tack: HTML 5 / (55 3 / JavaScript (jQuery) /Тwitter Bootstrap/ SCSS / Grunt
-* http://mnb-t.com/#portfolio-bd-club 
+* Stack: HTML 5 / (55 3 / JavaScript (jQuery) /Тwitter Bootstrap/ SCSS / Grunt
+* [Repository](https://github.com/schiz/bdclub) 
 
 # Dive Info
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/diveinfo.jpg "Dive Info")
 * Front-end development ofa website for Diving club "Dive lnfo" 
 * Stack: HTMLS, CSS3 (transition, Less), Modernizr, Javascript, jQuery, Backbone.js, Underscore.js 
-* http://mnb-t.com/#portfolio-diveinfо
+* [Repository](https://github.com/schiz/diveinfo)
 
 # CGF
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/cgf.jpg "CGF")
 * Front-end development of a visual-production studio
 * Stack: HTML 5, CSS 3, JavaScript (jQuery), Haml, Ruby
-* http://mnb-t.com/#portfolio-cgf 
+* [Repository](https://github.com/schiz/cgf) 
 
 # HST
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/hst.jpg "HST")
 * Front-end / Back end development of an online catalog of companies
-* 5tack: HTML / CSS / Java5cript / jQuery / РНР 
-* http://mnb-t.com/#portfolio-hst 
+* Stack: HTML / CSS / Java5cript / jQuery / РНР 
+* [Repository](https://github.com/schiz/hst) 
 
 # PW Raven
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/pwraven.jpg "PW Raven")
 * Front-end development for а website of an online MMORPG game "PW Raven"
 * Stack: HTML5, CSS3 (transition), Javascript, jQuery, jQueryUI, Modernizr
-* http://mnb-t.com/#portfolio-pw-raven
+* [Repository](https://github.com/schiz/pwraven)
 
 # Forces of goodness
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/forcesofgoodness.jpg "Forces of goodness")
@@ -221,13 +221,13 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/teff.jpg "Teff")
 * Front-end / Back-end development of а website for company selling heat and power equipment 
 * Stack: HTML5 / CSSЗ / JavaScript (jQuery) / РНР / МySQL 
-* http://mnb-t.com/#portfolio-teff 
+* [Repository](https://github.com/schiz/teff)
 
 # Open region
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/openregion.jpg "Open region")
 * Front-end development of a website for government of Tula region, Russia
 * Stack: HTML5 / CSSЗ / JavaScript / jQuery
-* http://mnb-t.com/#portfolio-open-region
+* [Repository](https://github.com/schiz/open-region)
 
 # Face this world
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/facethisworld.jpg "Face this world")
@@ -245,31 +245,31 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/takeda.jpg "Calcium Takeda")
 * Front-end development of a landing page for medical company Takeda
 * 5tack: HTML 5 / CSS 3 / JavaScript
-* http://mnb-t.com/#portfoliо-саlcium
+* [Repository](https://github.com/schiz/calcium)
 
 # Inform VS
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/informvs.jpg "Inform VS")
 * Front-end development for а company providing education for 1С products and services. 
 * Stack: HTML 5, CSS 3, Java5cript (jQuery) 
-* http://mnb-t.com/1portfoti o-i nform-vs 
+* [Repository](https://github.com/schiz/informvs)
 
 # Dove Sunny
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/dovesunny.jpg "Dove Sunny")
 * Front-end development of а landing page for Dove promo-site
 * Stack: HTML5, CSS3, JavaScript (jQuery)
-* http://mnb-t.com/#portfolio-dove-sunny 
+* [Repository](https://github.com/schiz/dove-sunny) 
 
 # Real Estatenik
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/realestatenik.jpg "Real Estatenik")
 * Front-end development of a landing page for real estate project 
 * Stack: HTML, CSS, JavaScript (jQuery) 
-* http://mnb-t.com/#portfolio-real-estatenik 
+* [Repository](https://github.com/schiz/realestate)
 
 # Architecture
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/architecture.jpg "Architecture")
 * Development of а weЬ-site selling architecture services 
 * Stack: HTML, CSS, JavaScript (jQuery), РНР, МySQL, WordPress
-* http://mnb-t.com/#portfoliо-аrchitecture 
+* [Repository](https://github.com/schiz/architecture)
 
 # Virtual Office
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/virtualoffice.jpg "Virtual Office")
