@@ -17,61 +17,61 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/marlboro.jpg "Marlboro")
 * Front-end development of a landing page for Мarlboro promo-site
 * Stack: HTML5, CSS3, JavaScript (jQuery) 
-* http://mnb-t.com/#portfolio-marlboro
+* Repo unavailable (NDA)
 
 # Redd's
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/redds.jpg "Redd's")
 * Front-end development of а promo-site for SAB Miller 
 * Stack: HTML5, CSS3, JavaScript (jQuery)
-* http://mnb-t.com/#portfolio-redds-apples
+* Repo unavailable (NDA)
 
 # Dove real man
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/doverealman.jpg "Dove real man")
 * Front-end development of а promo-site for "Dove"
 * Stack: HTML5, CSS3, Less, JavaScript, jQueryUI, Backbone.js, Underscore.js, Require.js, Session Storage, Grunt.js, Vimeo Player API
-* http://mnb-t.com/#portfolio-dove-real%20man
+* Repo unavailable (NDA)
 
 # MTS
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/mtsdisk.jpg "MTS")
 * Front-end development of online storage-service of Mobile Operator "МТS" MТS-Disk 
 * Stack: HTMLS / CSS3 / Less / JavaScript (jQuery) / Knockout.js / Node.js / Тwig
-* http://mnb-t.com/#portfolio-mts-disk
+* Repo unavailable (NDA)
 
 # JQ Estate
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/jqestate.jpg "JQ Estate")
 * Front-end / Back-end development of а web-site of a Real Estate Agency of elite countryside estate (Moscow, Russia)
 * Stack: HTML5 / CSS3 (LESS)/ JavaScript (jQuery, native js) / Backbone.js / Мarionette.js / Undersсоre.js / Require.js / Angular.js / Python (Django) / Google Мaрs API 
-* http://mnb-t.com/#portfolio-jq-estate 
+* [Site](http://www.jqestate.ru)
 
 # Rublevka.ru
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/rublevka.jpg "Rublevka.ru")
 * Front-end / Back-end development of а web-site for Countryside Real Estate Agency "Rublevka.ru (Moscow, Russia)" 
 * Stack: HTML5 / CSS3 (LESS) / JavaScript (jQuery, native js ) / Backbone.js (Мarionette.js) / Undersсоre.js / Require.js / Angular.js / Python (Django) / Google Мaрs API 
-* http://mnb-t.com/#portfolio-rublevka.ru 
+* [Site](http://rublevka.ru)
 
 # Gorod.ru
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/gorod.jpg "Gorod.ru")
 * Front-end / Back-end development of а web-site for Urban Real Estate Agency "Gorod.ru" (Moscow, Russia) 
 * Stack: HTML 5 / CSS 3 (LESS)/ JavaScript (jQuery, native js) / Backbone.js / Мarionette.js) / Undersсоre.js / Require.js / Angular.js / Python (Django) / Google Мaрs API 
-* http://mnb-t.com/#portfolio-gorod.ru
+* [Site](http://gorod.ru)
 
 # Rublevka.com
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/rublevkacom.jpg "Rublevka.com")
 * Front-end development of an online elite magazine "Rublevka Мagazine"
 * Stack: HTML5, CSS3, Less, Twitter Bootstrap, JavaScript, jQuery, Masonry.js
-* http://mnb-t.com/#portfolio-rublevka.com 
+* [Site](http://rublevka.com)
 
 # Scrollax
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/scrollax.jpg "Scrollax")
 * Front-end / Back-end development of а WordPress Theme "Scrollax"
 * Stack: HTMLS, CSS3, Less, JavaScript, jQuery, Twitter Bootstrap, РНР 5.3, МySQL, СМ5: WordPress
-* http://mnb-t.com/#portfolio-scrollaх 
+* Repo unavailable (NDA)
 
 # Autoreport
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/autoreport.jpg "Autoreport")
 * Front-end development of project providing credit information
 * Stack: HTMLS, CSS3, JavaScript, jQuery, d3.js 
-* http://mnb-t.com/#portfolio-аutoreport 
+* Repo unavailable (NDA)
 
 # Gallery
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/gallery.jpg "Gallery")
@@ -83,7 +83,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/vigital.jpg "Vigital")
 * Front-end development of a web-site of а Video Production company "Vigital"
 * Stack: HTML5, CSS3 (Less), JavaScript (jQuery), Backbone.js, Require.js, Youtube JS API, Responsive markup
-* http://mnb-t.com/#portfolio-vigital
+* Repo unavailable (NDA)
 
 # Pure country
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/purecountry.jpg "Pure country")
@@ -101,13 +101,13 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/helgihome.jpg "Helgi home")
 * Front-end development of an online retail store
 * Stack: HTML5 / CSS3 / JavaScript (jQuery)
-* http://mnb-t.com/#portfolio-helgi-home
+* Repo unavailable (NDA)
 
 # Yasoon
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/yasoon.jpg "Yasoon")
 * Front-end and back-end development of QA service "Yasoon" 
 * Stack: HTML, CSS, JavaScript (jQuery), Underscore.js, Backbone.js, Мэrionette.js, РНР, Symfony, МySQL 
-* http://mnb-t.com/#portfoliо-уаsoon 
+* Repo unavailable (NDA)
 
 # Pairs
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/pairs.jpg "Pairs")
@@ -119,13 +119,13 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/avegi.jpg "Avegi.ru")
 * Front-end development of a furniture e-commerce site.
 * Stack: HTML, CSS, JavaScript (jQuery)
-* http://mnb-t.com/#portfoliо-аvegi.ru
+* Repo unavailable (NDA)
 
 # Bloommy
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/bloommy.jpg "Bloomy")
 * А social network for participants of the event-management marketplace. 
 * Stack: HTML 5 / CSS 3 / JavaScript / jQuery / jQueryUI / Backbone.js / Underscore.js / Require.js / Chaplin.js / РНР 5 / Kohana / Мy5QL
-* http://mnb-t.com/#portfolio-bloomy
+* Repo unavailable (NDA)
 
 # Obit
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/obit.jpg "Obit")
@@ -155,7 +155,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/mazapromo.jpg "Mazapromo")
 * Front-end development of a travel agency website
 * Stack: HTML5 / CSS3 (Less) / JavaScript (jQuery)
-* http://mnb-t.com/#portfolio-mazapromo
+* Repo unavailable (NDA)
 
 # Airtribune
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/airtribune.jpg "Airtribune")
@@ -215,7 +215,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/forcesofgoodness.jpg "Forces of goodness")
 * Front-end development of a web-site "Forces of Goodness"
 * Stack: HTML5, CSS3, JavaScript (jQuery) 
-* http://mnb-t.com/#portfotio-forces-of%20goodness 
+* Repo unavailable (NDA)
 
 # Teff
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/teff.jpg "Teff")
@@ -233,13 +233,13 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/facethisworld.jpg "Face this world")
 * Front-end development of a social network "Face this world" 
 * Stack: HTML 5 / CSS З (LESS)/ JavaScript (jQuery, native js)/ Backbone.js / Require.js / Grunt.js / SVG 
-* http://mnb-t.com/#portfolio-facethisworld 
+* Repo unavailable (NDA)
 
 # Pipeline
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/pipeline.jpg "Pipeline")
 * А browser JavaScript game "Pipeline" 
 * Stack: HTMLS, CSS3 (transition, Less), modernizr, JavaScript, jQuery, Backbone.js, Underscore.js 
-* http://mnb-t.com/#portfolio-pipeline
+* Repo unavailable (NDA)
 
 # Calcium Takeda
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/takeda.jpg "Calcium Takeda")
@@ -275,7 +275,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/virtualoffice.jpg "Virtual Office")
 * Experiments with development of а 3D scene (webGL) using Three.js
 * Stack: HTML5, CSS3 (3D), JavaScript (jQuery, Three.js) 
-* http://mnb-t.com/#portfolio-virtual-office 
+* Repo unavailable
 
 То start the 3D scene press the button "Virtual Office М&ВТ", Use browsers that support webGL
 
@@ -283,4 +283,4 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/threejsportfolio.jpg "Three.js portfolio")
 * Experiments with development of а portfolio site in 3D (webGL) on Three.js
 * Stack: HTML 5, CSS 3 (3D), JavaScript (jQuery, Three.js)
-* httр://mnb-t.сom/#portfoliо-three.js-experiments
+* Repo unavailable
