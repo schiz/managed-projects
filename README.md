@@ -95,7 +95,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/puzzle.jpg "Puzzle")
 * Front-end / Back-end development of а browser JavaScript game "Puzzles"
 * Stack: HTML5, CSS3 (transition, transform, Less), Modernizr, JavaScript, jQuery, Backbone.js, Underscore.js, blowfish crypt 
-* http://mnb-t.com/#portfolio-game-puzzles
+* [Repository](https://github.com/schiz/puzzle)
 
 # Helgi home
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/helgihome.jpg "Helgi home")
