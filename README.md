@@ -131,7 +131,7 @@ I managed development of these projects as a project manager
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/obit.jpg "Obit")
 * Front-end development of а corporate websitefor а company providing telecommunication services "Obit" 
 * Stack: HTML5, CSS3, Less, JavaScript, jQuery, Modernizr
-* [Obit](https://github.com/schiz/obit)
+* [Repository](https://github.com/schiz/obit)
 
 # Legeartis
 ![alt text](https://github.com/schiz/managed-projects/raw/master/pics/legeartis.jpg "Legeartis")
